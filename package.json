@@ -1,0 +1,22 @@
+{
+  "name": "@lifaon/rx-router",
+  "version": "0.9.0",
+  "description": "A router for rx-dom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifaon74/rx-router"
+  },
+  "keywords": [
+    "rx-dom",
+    "router",
+    "url"
+  ],
+  "sideEffects": false,
+  "author": "Valentin Richard",
+  "license": "MIT",
+  "access": "public",
+  "dependencies": {
+    "@lifaon/rx-dom": "^2.1.0",
+    "@lifaon/rx-js-light": "^2.3.0"
+  }
+}
